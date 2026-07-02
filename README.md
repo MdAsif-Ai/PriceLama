@@ -17,7 +17,7 @@ The model was trained using modern parameter-efficient fine-tuning techniques, i
 The model is available on Hugging Face:
 
 **🤗 Hugging Face:**
-https://huggingface.co/Md-Asif/PriceLlama
+[https://huggingface.co/Md-Asif/PriceLlama](https://huggingface.co/Md-Asif/PriceLama)
 
 ## Notes
 
